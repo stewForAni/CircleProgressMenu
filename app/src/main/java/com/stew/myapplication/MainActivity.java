@@ -10,7 +10,7 @@ public class MainActivity extends AppCompatActivity {
 
     private int[] aroundCircleTitleEn = {R.string.topTitleEn, R.string.topRightTitleEn, R.string.topLeftTitleEn, R.string.rightTitleEn, R.string.leftTitleEn, R.string.bottomRightTitleEn, R.string.bottomLeftTitleEn};
     private int[] aroundCircleTitleCn = {R.string.topTitleCn, R.string.topRightTitleCn, R.string.topLeftTitleCn, R.string.rightTitleCn, R.string.leftTitleCn, R.string.bottomRightTitleCn, R.string.bottomLeftTitleCn};
-    private int[] circleIcon = {R.drawable.film, R.drawable.word, R.drawable.listen, R.drawable.play, R.drawable.video, R.drawable.go_class, R.drawable.share};
+    private int[] circleIcon = {R.drawable.android, R.drawable.android, R.drawable.android, R.drawable.android, R.drawable.android, R.drawable.android, R.drawable.android};
     private int[] circleCompleteStatusList = {AttrEntity.COMPLETE,
             AttrEntity.COMPLETE,
             AttrEntity.COMPLETE,
