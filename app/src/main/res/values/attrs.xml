@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CircleProgressMenu">
+        <attr name="centerCircleText" format="string|reference" />
+        <attr name="centerCircleTextSize" format="dimension|reference" />
+        <attr name="centerCircleTextColor" format="color|reference" />
+
+        <attr name="centerCircleColor" format="color|reference" />
+        <attr name="centerArcColorDef" format="color|reference" />
+        <attr name="centerArcColor" format="color|reference" />
+
+        <attr name="aroundCircleDefColor" format="color|reference" />
+        <attr name="aroundCircleDoingColor" format="color|reference" />
+        <attr name="aroundCircleCompleteColor" format="color|reference" />
+
+        <attr name="aroundSmallCircleColor" format="color|reference" />
+
+        <attr name="titleSize" format="dimension|reference" />
+        <attr name="titleColor" format="color|reference" />
+
+    </declare-styleable>
+</resources>

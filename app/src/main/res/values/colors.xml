@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="white">#ffffff</color>
+
+    <color name="around_circle_doing_color">#04c4b5</color>
+    <color name="around_circle_def_color">#4e545e</color>
+    <color name="around_circle_complete_color">#37a0f4</color>
+
+    <color name="center_circle_color">#37a0f4</color>
+    <color name="arc_change">#fafafa</color>
+    <color name="arc_default">#656d74</color>
+
+</resources>

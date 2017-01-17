@@ -1,0 +1,30 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="biz_content_text_size">14sp</dimen>
+    <dimen name="biz_lesson_title_text_size_cn">12sp</dimen>
+    <dimen name="biz_lesson_title_text_size_en">9sp</dimen>
+    <dimen name="biz_lesson_card_width">120dp</dimen>
+    <dimen name="biz_lesson_card_height">240dp</dimen>
+
+    <dimen name="aroundCircleLayoutWidth">80dp</dimen>
+    <dimen name="aroundCircleLayoutHeight">110dp</dimen>
+
+    <dimen name="aroundWhiteCircleLayoutWidth">16dp</dimen>
+    <dimen name="aroundWhiteCircleLayoutHeight">16dp</dimen>
+
+    <dimen name="outRadius">140dp</dimen>
+    <dimen name="centerCircleRadius">57dp</dimen>
+
+    <dimen name="arcStrokeWidth">9dp</dimen>
+
+    <dimen name="arc">65dp</dimen>
+    <dimen name="offset_1">10dp</dimen>
+    <dimen name="offset_5">15dp</dimen>
+    <dimen name="offset_6">29dp</dimen>
+    <dimen name="offset_7">23dp</dimen>
+    <dimen name="offset_8">37dp</dimen>
+
+</resources>

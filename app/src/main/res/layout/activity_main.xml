@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.stew.myapplication.MainActivity">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop"
+        android:src="@drawable/bg" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#44000000" />
+
+    <LinearLayout
+        android:id="@+id/ll_container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="60dp"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <com.stew.myapplication.CircleLayout
+            android:id="@+id/circle_layout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            app:aroundCircleCompleteColor="@color/around_circle_complete_color"
+            app:aroundCircleDefColor="@color/around_circle_def_color"
+            app:aroundCircleDoingColor="@color/around_circle_doing_color"
+            app:centerArcColor="@color/arc_change"
+            app:centerArcColorDef="@color/arc_default"
+            app:centerCircleColor="@color/center_circle_color"
+            app:centerCircleText="Start"
+            app:centerCircleTextColor="@color/white"
+            app:centerCircleTextSize="22sp"
+            app:aroundSmallCircleColor="@color/white"
+            app:titleSize="12sp"
+            app:titleColor="@color/white"/>
+
+    </LinearLayout>
+</RelativeLayout>

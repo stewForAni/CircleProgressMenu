@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">CircleProgressMenu</string>
+    <string name="topTitleEn">Title-1</string>
+    <string name="topTitleCn">标题-1</string>
+
+    <string name="topRightTitleEn">Title-2</string>
+    <string name="topRightTitleCn">标题-2</string>
+
+    <string name="topLeftTitleEn">Title-3</string>
+    <string name="topLeftTitleCn">标题-3</string>
+
+    <string name="rightTitleEn">Title-4</string>
+    <string name="rightTitleCn">标题-4</string>
+
+    <string name="leftTitleEn">Title-5</string>
+    <string name="leftTitleCn">标题-5</string>
+
+    <string name="bottomRightTitleEn">Title-6</string>
+    <string name="bottomRightTitleCn">标题-6</string>
+
+    <string name="bottomLeftTitleEn">Title-7</string>
+    <string name="bottomLeftTitleCn">标题-7</string>
+
+    <string name="centerCircleTitle_1">Start</string>
+    <string name="centerCircleTitle_2">Continue</string>
+    <string name="centerCircleTitle_3">All Done</string>
+
+    <string name="biz_listen_part">Listen</string>
+    <string name="biz_class_title">Regular Class</string>
+    <string name="biz_discussion_class_title">Discussion Class</string>
+</resources>
