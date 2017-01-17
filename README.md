@@ -5,6 +5,9 @@
 It's  a simple circle menu with **progress** effect.  It's used for some projects that need to be done step by step.The default color of the circles around is dark grey, The color of a certain circle will turn green when you are doing tasks involved in it and then blue when you complete them.Of course ,you can change these three status colors as you like at xml.Just copy my code if you need such a menu, which is quite easy to understand. Any suggestion, please send to:stewforani@gmail.com. Thank you!
 
 ##### show:
+
+You can see it live downloading [**this apk**](https://github.com/stewForAni/CircleMenuLayout/blob/master/demo.apk)
+
 <img src="https://github.com/stewForAni/CircleMenuLayout/blob/master/images/WechatIMG6.png" width="250"> 
 <img src="https://github.com/stewForAni/CircleMenuLayout/blob/master/images/WechatIMG7.png" width="250">
 <img src="https://github.com/stewForAni/CircleMenuLayout/blob/master/images/WechatIMG8.png" width="250">
@@ -15,15 +18,20 @@ It's  a simple circle menu with **progress** effect.  It's used for some project
 ```java
 //amount of the circles around
 private int aroundCircleCount = 7;
+
 //the currrent progress num(=<aroundCircleCount)
 private int currentProgressNum = 3;
+
 //Icons of around circle (set by yourself)
 private int[] circleIcon = {R.drawable.xxx,"","","","","",""};
+
 //the en and cn of the circles around
 private int[] aroundCircleTitleEn = {R.string.xxx,"","","","","",""};
 private int[] aroundCircleTitleCn = {R.string.xxx,"","","","","",""};
-//status of every circle(default->grey,doing->green,complete->blue,three status and 
-//color set by yourself)
+
+//status of every circle
+//default->grey,doing->green,complete->blue
+//three status and color set by yourself
 private int[] circleCompleteStatusList = {"","","","","","",""};
 ```
 
