@@ -2,7 +2,7 @@
 
 ##### Intro:
 
-It's  a simple circle menu with **progress** effect.  It's used for some projects that need to be done step by step.The default color of the circles around is dark grey, The color of a certain circle will turn green when you are doing tasks involved in it and then blue when you complete them.Of course ,you can change these three status colors as you like at xml.Just copy my code if you need such a menu, which is quite easy to understand. Any suggestion, please send to:stewforani@gmail.com. Thank you!
+It's  a simple circle menu with **progress** effect.  It's used for some projects that need to be done step by step.The default color of the circles around is dark grey, The color of a certain circle will turn green when you are doing tasks involved in it and then blue when you complete them.Of course ,you can change these three status colors as you like at xml.Just copy my code if you need such a menu, which is quite easy to understand. Any suggestion, please send to:stewforani@gmail.com. Thank you!(welcome star and fork  :)  )
 
 ##### show:
 
