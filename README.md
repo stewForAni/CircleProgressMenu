@@ -8,9 +8,9 @@ It's  a simple circle menu with **progress** effect.  It's used for some project
 
 You can see it live downloading [**this apk**](https://github.com/stewForAni/CircleMenuLayout/raw/master/demo.apk)
 
-<img src="https://github.com/stewForAni/CircleMenuLayout/blob/master/images/WechatIMG9.png" width="250"> 
-<img src="https://github.com/stewForAni/CircleMenuLayout/blob/master/images/WechatIMG10.png" width="250">
+<img src="https://github.com/stewForAni/CircleMenuLayout/blob/master/images/WechatIMG10.png" width="250"> 
 <img src="https://github.com/stewForAni/CircleMenuLayout/blob/master/images/WechatIMG11.png" width="250">
+<img src="https://github.com/stewForAni/CircleMenuLayout/blob/master/images/WechatIMG9.png" width="250">
 
 
 ##### how to use:
