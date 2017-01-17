@@ -6,7 +6,7 @@ It's  a simple circle menu with **progress** effect.  It's used for some project
 
 ##### show:
 
-You can see it live downloading [**this apk**](https://github.com/stewForAni/CircleMenuLayout/blob/master/demo.apk)
+You can see it live downloading [**this apk**](https://github.com/stewForAni/CircleMenuLayout/raw/master/demo.apk)
 
 <img src="https://github.com/stewForAni/CircleMenuLayout/blob/master/images/WechatIMG6.png" width="250"> 
 <img src="https://github.com/stewForAni/CircleMenuLayout/blob/master/images/WechatIMG7.png" width="250">
